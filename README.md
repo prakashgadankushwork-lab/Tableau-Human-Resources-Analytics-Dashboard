@@ -32,6 +32,7 @@ Data Processing: Python (Faker library for dataset generation), Tableau Data Mod
 
 # 📊 Data Source
 Origin: Dataset generated using Python (Faker) to simulate realistic HR records, including hire dates, termination status, department hierarchies, and salary information.
+
 Processing: Performed data cleaning, mapped correct data types, created hierarchical relationships (Department > Job Title), and developed complex calculated fields for active vs. terminated status and performance metrics.
 
 <img width="1399" height="799" alt="HR _ Summary" src="https://github.com/user-attachments/assets/09def43d-702b-46c8-98a1-4f76c73c8664" />
